@@ -9,7 +9,7 @@ Tagging a release on this repository will update the:
 
 This repository contains
 
-- Persona's OpenAPI spec which lives in the [openaip](./fern/api/openapi/) folder
+- Persona's OpenAPI spec which lives in the [openapi](./fern/api/openapi/) folder
 - Generators (see [generators.yml](./fern/api/generators.yml))
 
 To make sure that the OpenAPI is valid, you can use the Fern CLI.
